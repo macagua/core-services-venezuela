@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="externaltab" version="1.0">
+	<attributes>
+		<attribute name="dataVersion" value="1"/>
+		<list name="entries">
+			<item>
+				<attribute name="folderType" value="0"/>
+				<attribute name="unfolded" value="no"/>
+				<attribute name="url" value="siteEntry://externals/Core Services/"/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:coreproyecto@icnet.com.ve"/>
+				<attribute name="url" value="siteEntry://externals/Core Services/Core Proyecto"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:coreservicesvzla@cantv.net"/>
+				<attribute name="url" value="siteEntry://externals/Core Services/Core Services Vzla"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:coreventas@icnet.com.ve"/>
+				<attribute name="url" value="siteEntry://externals/Core Services/Core Ventas"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="mailto:leonardo_caballero@email.com"/>
+				<attribute name="url" value="siteEntry://externals/Leonardo Caballero"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+		</list>
+	</attributes>
+</sitesettings>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="linktype" version="1.0">
+	<attributes>
+		<list name="linktypes">
+			<item>
+				<attribute name="color" value="#0000ff"/>
+				<attribute name="name" value="Hyperlink"/>
+				<attribute name="navtype" value="0"/>
+				<attribute name="uniqueID" value="1"/>
+			</item>
+			<item>
+				<attribute name="color" value="#008000"/>
+				<attribute name="name" value="Parent"/>
+				<attribute name="navtype" value="5"/>
+				<attribute name="uniqueID" value="2"/>
+			</item>
+			<item>
+				<attribute name="color" value="#008000"/>
+				<attribute name="name" value="Child"/>
+				<attribute name="navtype" value="4"/>
+				<attribute name="uniqueID" value="3"/>
+			</item>
+			<item>
+				<attribute name="color" value="#008000"/>
+				<attribute name="name" value="Next"/>
+				<attribute name="navtype" value="6"/>
+				<attribute name="uniqueID" value="4"/>
+			</item>
+			<item>
+				<attribute name="color" value="#008000"/>
+				<attribute name="name" value="Previous"/>
+				<attribute name="navtype" value="7"/>
+				<attribute name="uniqueID" value="5"/>
+			</item>
+			<item>
+				<attribute name="color" value="#bfbf00"/>
+				<attribute name="name" value="Tour"/>
+				<attribute name="navtype" value="10"/>
+				<attribute name="uniqueID" value="6"/>
+			</item>
+		</list>
+		<attribute name="nextID" value="7"/>
+		<attribute name="useSiteSettings" value="no"/>
+	</attributes>
+</sitesettings>

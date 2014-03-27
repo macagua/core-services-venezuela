@@ -1,0 +1,32 @@
+a:link
+ { font-weight: bolder; text-decoration: none }
+
+a:hover
+  { color: #09078e; font-weight: bolder; text-decoration: none }
+
+a:active
+ { font-weight: bolder; text-decoration: none }
+
+a
+  { color: #fbad48; font-style: normal; font-weight: bolder; font-size: 14px; font-family: Arial, "Times New Roman", Verdana, Tahoma; text-decoration: underline }
+
+a:vlink
+ { text-decoration: line-through }
+
+body
+ { background:#fff fixed; scrollbar-3dlight-color: #FFFFFF; scrollbar-arrow-color: #D8CD22; scrollbar-darkshadow-color: #1662A8; scrollbar-face-color: #FFFFFF; scrollbar-highlight-color: #3A96EA; scrollbar-shadow-color: #1049B1; scrollbar-track-color: #FFFFFF }
+td { }
+tr { }
+br { }
+p { font-style: normal; font-weight: bold }
+div { }
+hr { }
+
+.table { border: solid 0px #f46a0e }
+.texto { }
+.titulo     { color: #09078e; font-style: oblique; font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.subtitulo  { color: #000000; font-size: 11pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.table { border: solid 2px #19A0ED; }
+#parrafo   { color: black; font-size: 13px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-align: justify }
+#hr { color: #463d8b }
+#body { background:"../imagenes/logocoreagua.jpg"}

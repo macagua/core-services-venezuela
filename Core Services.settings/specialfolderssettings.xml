@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="specialfolders" version="1.0">
+	<attributes>
+		<attribute name="SiteComponentsFolder" value="Components"/>
+		<attribute name="SiteDesignsFolder" value="Designs"/>
+		<attribute name="SiteSnippetsFolder" value="Library"/>
+		<attribute name="SiteStationeriesFolder" value="Stationeries"/>
+		<attribute name="SiteTemplatesFolder" value="Templates"/>
+		<attribute name="SiteTrashFolder" value="Site%2520Trash"/>
+		<attribute name="SmartObjectsFolder" value="SmartObjects"/>
+	</attributes>
+</sitesettings>

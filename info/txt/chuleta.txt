@@ -1,0 +1,150 @@
+
+<input type="submit" value="Volver" onclick="history.back(-1)">
+
+&nbsp;&nbsp;&nbsp;
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0#version=5,0,0,0" WIDTH=90% HEIGHT=100% align="middle">
+	<PARAM NAME=movie VALUE="logo.swf">
+	<PARAM NAME=menu VALUE=false>
+	<PARAM NAME=quality VALUE=best>
+	<PARAM NAME=bgcolor VALUE=#FFFFFF>
+ <EMBED src="logo.swf" menu=false quality=best bgcolor=#FFFFFF  WIDTH=90% HEIGHT=100% TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
+</object>
+
+<a href="" onMouseOver="window.status='Dead-Link'; return true;" onMouseOut="window.status=''; return true;" title=>
+
+href="javascript:alert('Under Construction');" target="_self"
+
+href="javascript:alert('Pagina en Construcción');" target="_self"
+
+
+<style type="text/css">
+<!-- 
+a
+{
+ text-decoration : underline;
+ font-family :"Arial, Helvetica, sans-serif";
+ color:"#333399"
+}
+a:hover
+{
+ text-decoration : none;
+ font-family :"Arial, Helvetica, sans-serif";
+ color:"#336699"
+}
+
+P.vinculo 
+{
+	font-family :"Arial, Helvetica, sans-serif";
+	font-size : 14px;
+	font-weight : bold;
+}
+P.subtitulo 
+{
+	font-family : Arial;
+	font-size : 14px;
+	font-weight : bold;
+}
+
+P.titulo
+{
+	font-family : Arial;
+	font-size : 12pt;
+	font-weight : bold;
+        color:"#00309C"
+}
+-->
+</style>
+
+
+<center>
+ <p class="titulo"><FONT face="Arial, Helvetica, sans-serif">
+  <SPAN onmouseout="style.color='00309C'" onmouseover="style.color='00309C'">
+  <SPAN onmouseout="style.fontWeight='normal'; style.fontStyle='Oblique'; style.fontSize='12pt'"
+        onmouseover="style.fontWeight='bold'; style.fontStyle='Oblique'; style.fontSize='12pt'">
+   <B><i>CORE SERVICES DE VENEZUELA, C.A.</i></B><BR><BR>	
+  </SPAN>
+  </SPAN>
+ </FONT></p>
+</center>
+
+
+<p align="center" class="vinculo"><b><a href="javascript:history.back(1)" target="_self" onMouseOver="window.status='Back'; return true;" onMouseOut="window.status=''; return true;">Back</a></b></p>
+
+<div align="center">
+<b><font color="#000000" face="Arial,Helvetica,sans-serif" size="2">
+  © Core Services de Venezuela, C.A.&nbsp;<br>2001 - 2002
+ </font></b>
+</div>
+
+
+
+  // All you have to do is put another text in the variable message.
+  // Don't forget to break all lines with a ^
+  // When you do not place a ^ at the end of all the message, the
+  // message will not repeat
+
+  messagestatus = "Core Services de Venezuela C.A.^" +
+                "The Company, " +
+                "Towards 9000:2000, " +
+                "Integral Protection, " +
+                "Instrumentation, " +
+                "e-WellWeb, " +
+                "Technology.^" +
+                "Services: " +
+                "Taking channel's samples, " +
+                "Monitoring and Instrumentation, " +
+                "Mud Logging, " +
+                "Information Systems, " +
+                "The String Vibration... ^"+
+                "...Remote Transmission of Drill Data, " +
+                "The String Vibration on line, " +
+                "Finder.^" +
+                "Contact Us^" +
+
+
+
+
+</font>
+
+
+<script language="javascript">
+<!--
+// La utilizacion de este script, implica conservar estos comentarios
+// La web del Mario - http://club.telepolis.com/mnb/
+
+// añade aqui el mensaje que aparece cuando pulse el raton derecho.
+var msg = "Core Services de Venezuela, C.A. - Derechos Reservados.";
+
+// no toques esta funcion
+function RClick(boton){
+ if (document.layers && boton.which == 3) {
+    alert(msg);    return false;  }
+  if (document.all && event.button == 2 || event.button == 3) {
+    alert(msg);    return false; }
+}
+
+document.onmousedown = RClick
+
+//--></script>
+
+
+<script language="javascript">
+<!--
+// La utilizacion de este script, implica conservar estos comentarios
+// La web del Mario - http://club.telepolis.com/mnb/
+
+// añade aqui el mensaje que aparece cuando pulse el raton derecho.
+var msg = "Core Services de Venezuela, C.A. - Copyright.";
+
+// no toques esta funcion
+function RClick(boton){
+ if (document.layers && boton.which == 3) {
+    alert(msg);    return false;  }
+  if (document.all && event.button == 2 || event.button == 3) {
+    alert(msg);    return false; }
+}
+
+document.onmousedown = RClick
+
+//--></script>
