@@ -25,7 +25,7 @@ Características
 Visualización previa
 ====================
 
-Captura de de la animación en formato Flash del sitio, se presenta a continuación:
+Captura de la animación en formato Flash del sitio, se presenta a continuación:
 
 .. image:: https://raw.githubusercontent.com/macagua/core-services-venezuela/master/screenshot1.png
 
